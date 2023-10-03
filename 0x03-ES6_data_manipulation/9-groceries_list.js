@@ -1,11 +1,19 @@
-console.log(groceriesList());
 def groceriesList():
 grocery_items = {
-    "Guillaume": 1,
-    "James": 2,
-    "Serena" : 5,
+    "Apple": 5,
+    "Bananas": 10,
+    "Milk" : 2,
+    "Eggs" : 1,
+    "Bread": 2,
+    "Cheese": 1,
+    "Chicken": 2,
+    "Rice": 1,
+    "Pasta": 2,
+    "Tomatoes": 3
 }
 return grocery_items
 grocery_list =grocerieslist()
-print('guillaume': 1, 'james': 2, 'Serena': 5,)
+{
+print{"Apple": 5, "Bananas":10,"Milk": 2,"Eggs": 1, "Bread": 2, "Chease" : 1, "Chicken": 2,"Rice": 1,"Pasta": 2, "Tomatoes": 3}
 
+}
